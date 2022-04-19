@@ -61,7 +61,6 @@ namespace MyApp
 
             Console.ReadKey();
         }
-
         static List<Node<int, List<int>>> GetSortedListsWithCursorToCurrentPos(int k)
         {
             List<Node<int, List<int>>> list = new List<Node<int, List<int>>>();
